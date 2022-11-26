@@ -6,9 +6,9 @@ name: Go
 on:
   push:
   # Ambos eram na main
-    branches: [ "*" ]
+    branches: [ '*' ]
   pull_request:
-    branches: [ "*" ]
+    branches: [ '*' ]
 
 jobs:
 
